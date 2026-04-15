@@ -1,0 +1,20 @@
+{
+  "design_id": "synthetic_000004",
+  "num_ports": 7,
+  "num_instances": 29,
+  "design_complexity": 1520,
+  "labels": {
+    "power_consumption": {
+      "total": 0.2483,
+      "dynamic": 0.1614,
+      "static": 0.0869
+    },
+    "timing_status": {
+      "status": "PASS",
+      "violations": 0
+    },
+    "drc_violations": {
+      "count": 0
+    }
+  }
+}

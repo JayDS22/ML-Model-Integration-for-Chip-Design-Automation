@@ -1,5 +1,6 @@
 __pycache__/
 *.py[cod]
+*$py.class
 *.so
 .Python
 build/
@@ -10,10 +11,11 @@ env/
 .venv
 .DS_Store
 *.log
-data/raw/*.v
 data/raw/*.gds
+data/raw/*.v
 data/processed/*.npz
 data/models/*.pth
 .pytest_cache/
 htmlcov/
 .coverage
+node_modules/

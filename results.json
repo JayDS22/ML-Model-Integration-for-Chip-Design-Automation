@@ -1,0 +1,17 @@
+{
+  "drc_violations": 1,
+  "drc_confidence": 0.10734888911247253,
+  "power_consumption": 0.0042,
+  "power_breakdown": {
+    "dynamic": 0.002492264471948147,
+    "static": 0.0012461322359740735,
+    "leakage": 0.00041537741199135784
+  },
+  "timing_status": "FAIL",
+  "timing_violations": 8,
+  "processing_time": 0.012022018432617188,
+  "accuracy_estimate": 99.8,
+  "model_version": "2.4.1",
+  "input_file": "data/raw/synthetic/design_000000.v",
+  "pipeline_time": 0.01961803436279297
+}
